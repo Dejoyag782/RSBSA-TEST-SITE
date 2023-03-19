@@ -205,6 +205,10 @@
 }
 
 @media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 1118px;
+  }
+
   .u-section-1 .u-list-1 {
     width: 720px;
   }
@@ -217,9 +221,7 @@
   .u-section-1 .u-text-9 {
     font-size: 2.25rem;
     width: auto;
-    margin-top: -753px;
-    margin-left: 75px;
-    margin-right: 75px;
+    margin: -753px 75px 60px;
   }
 }
 
